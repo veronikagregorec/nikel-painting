@@ -1,5 +1,13 @@
 # Nikel Painting
 
-WordPress website from scratch with HTML, CSS, JavaScript, PHP, jQuery.
+Responsive WordPress website from scratch with HTML, CSS, JavaScript, PHP and jQuery. 
 
-![](screenshot/front.png)
+![](screenshot/slikopleskarstvo.png)
+
+![](screenshot/storitve.png)
+
+![](screenshot/reference.png)
+
+![](screenshot/slika.png)
+
+![](screenshot/kontakt.png)
