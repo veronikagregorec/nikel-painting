@@ -20,7 +20,7 @@ Reference is a gallery of his work.
 
 ![](screenshot/reference.png)
 
-Image example with modal and image description. Click on the modal (black background) and the gallery will appear again.
+Image example with modal and image description. Click on the modal (black background) and the gallery will be appeared again.
 
 ![](screenshot/slika.png)
 
