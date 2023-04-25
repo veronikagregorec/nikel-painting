@@ -1,6 +1,6 @@
 # Nikel Painting
 
-I made WordPress website from scratch for an entrepreneur who was involved in painting.
+I made WordPress website from scratch for an entrepreneur who was involved in painting. Full name and address are fake.
 
 ## Browser Compatibility
 
