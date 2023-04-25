@@ -12,7 +12,7 @@ Homepage with the Storitve button, which sends to the Services page.
 
 ![](screenshot/slikopleskarstvo.png)
 
-Storitve page represents the services that the entrepreneur deals with.
+Storitve page represents the services that the entrepreneur dealt with.
 
 ![](screenshot/storitve.png)
 
