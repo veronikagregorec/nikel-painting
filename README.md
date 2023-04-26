@@ -1,6 +1,6 @@
 # Nikel Painting
 
-I made WordPress website from scratch for an entrepreneur who was involved in painting.
+WordPress website from scratch for an entrepreneur who was involved in painting.
 
 ## Browser Compatibility
 
