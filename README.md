@@ -14,7 +14,7 @@ All of the latest versions of <b>Chrome</b>, <b>Firefox</b>, <b>Edge</b> and <b>
   <li>download<a href="https://wordpress.org/download/"> Wordpress</a></li>
   <li>download the folder</li>
   <li>add folder into wordpress/wp-content/themes</li>
-  <li>wordpress directory add into C:\xampp\htdocs</li>
+  <li>wordpress directory add into xampp/htdocs</li>
   <li>access http://localhost/phpmyadmin on your browser</li>
   <li>click for new database, name it for example db</li>
   <li>access localhost/wordpress on your browser, it will take you to the installation of Wordpress</li>
