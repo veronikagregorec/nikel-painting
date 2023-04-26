@@ -1,6 +1,6 @@
 # Nikel Painting
 
-I made WordPress website from scratch for an entrepreneur who was involved in painting. Full name and address are fake.
+I made WordPress website from scratch for an entrepreneur who was involved in painting.
 
 ## Browser Compatibility
 
@@ -45,7 +45,7 @@ Homepage with the Storitve button, which sends to the Services page.
 
 ![](screenshot/slikopleskarstvo.png)
 
-Storitve page represents the services that the entrepreneur dealt with.
+Storitve page represents the services that the entrepreneur dealt with. Full name and address are fake.
 
 ![](screenshot/storitve.png)
 
