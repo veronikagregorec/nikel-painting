@@ -6,6 +6,8 @@ I made WordPress website from scratch for an entrepreneur who was involved in pa
 
 All of the latest versions of <b>Chrome</b>, <b>Firefox</b>, <b>Edge</b> and <b>Opera</b> browsers are supported.
 
+## Installation
+
 #### Steps to install
 
 <ol>
