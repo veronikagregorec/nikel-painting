@@ -23,7 +23,7 @@ All of the latest versions of <b>Chrome</b>, <b>Firefox</b>, <b>Edge</b> and <b>
     - username: root<br>
     - password:<br>
   <li>in Wordpress, go to the appearance tab and activate the Slikopleskarstvo theme</li>
-  <li>go to pages tab and add five pages, content of the pages is into pages directory</li>
+  <li>go to pages tab and add five pages, content of the pages is into pages folder</li>
   <li>click three dots and choose code editor in page tab</li>
   <li>copy/paste from files in pages folder</li>
   <li>add a link to the service button from the link to the service page</li>
@@ -34,9 +34,9 @@ All of the latest versions of <b>Chrome</b>, <b>Firefox</b>, <b>Edge</b> and <b>
   <li>sort them as you want</li>
   <li>add additional CSS from file css-custome.css</li>
   <li>hide link cookies from menu in additional CSS</li>
-  <li>go to media tab and add images form reference directory</li>
+  <li>go to media tab and add images form reference folder</li>
   <li>copy fileURL from attachment details to gallery page</li>
-  <li>handshake image is in directory slike</li>
+  <li>handshake image is in slike folder</li>
 </ol>
 
 ## Screenshots
